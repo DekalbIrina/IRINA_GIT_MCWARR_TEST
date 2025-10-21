@@ -1,0 +1,18 @@
+﻿By Default all DB errors are inserted into MCAErrorsLog Table in MCAWARRANT Data base.
+If Store Procedure "Insert_ErrorLog" failed then Error will be written in ErrorLogMCAWARRANT.txt file.
+ 
+ 
+5/17/2013 12:00:00 AM
+Bellow is Reason why 'Insert_ErrorLog' has been failed: 
+The EXECUTE permission was denied on the object 'Insert_ErrorLog', database 'MCAWARRANT', schema 'dbo'.
+Bellow is Data Base error what should be inserted into MCAErrorLog Table/MCAWARRANT Data Base:
+File Name -  Default.aspx.vb Error Description -  The EXECUTE permission was denied on the object 'Validate_UserLoginName', database 'MCAWARRANT', schema 'dbo'. localhost:2500 iegindina
+___________________________________________________________________________
+ 
+ 
+5/17/2013 12:00:00 AM
+Bellow is Reason why 'Insert_ErrorLog' has been failed: 
+The EXECUTE permission was denied on the object 'Insert_ErrorLog', database 'MCAWARRANT', schema 'dbo'.
+Bellow is Data Base error what should be inserted into MCAErrorLog Table/MCAWARRANT Data Base:
+File Name -  Default.aspx.vb Error Description -  The EXECUTE permission was denied on the object 'Validate_UserLoginName', database 'MCAWARRANT', schema 'dbo'. localhost:2500 iegindina
+___________________________________________________________________________
